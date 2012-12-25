@@ -1,0 +1,104 @@
+/*--------------------------------
+Auothor: Kole Reece
+Date:
+This stylesheet provides somebasic styles 
+
+---------------------------------*/
+html,body,h1,h2,h3,h4{
+margin: 0px;
+padding: 0px;
+font-size: 16px;
+}
+
+#main-container{
+max-width: 960px;
+padding-top: 30px;
+margin: 0 auto;
+}
+
+header{
+padding: 20px 20px;
+}
+p{
+ color: #DDD;
+ font: 1.5em "Times New Roman";
+ line-height: 1.5em;
+}
+
+.center{
+text-align: center;
+}
+
+
+/*Navigaton*/
+nav,footer{
+display: block;
+}
+
+footer{
+height: 350px;
+background: #FFFFFF;
+}
+
+
+h1{
+font-size: 3.0em;
+color: #FFF;
+
+}
+
+h2{
+font-size: 2.5em;
+color: #FFF;
+}
+
+h3{
+font-size: 1.5em;
+color: #FFF;
+
+}
+
+h2{
+font-size: 1.0em;
+color: #FFF;
+}
+
+/*textures*/
+body.default{
+background: #000;
+}
+
+ul li {
+list-style-type: none;
+}
+
+input[type="text"],
+input[type="button"],
+.button
+{
+ background: #4061C4;
+ padding: 10px 10px;
+ margin: 10px 10px;
+ display: inline-block;
+ text-decoration: none;
+ height: 40px;
+ width: 200px;
+ outline: none;
+ border: none;
+ font-weight:bold;
+ font: 1.5em Arial sans-serif;
+ text-align:center;
+}
+
+a:link{
+color:#FFF;
+}
+
+footer a{
+text-decoration:none;
+}
+
+footer p{
+color:#000;
+font-size:1em;
+}
