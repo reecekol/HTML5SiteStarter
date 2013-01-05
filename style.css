@@ -1,98 +1,80 @@
 /*--------------------------------
 Auothor: Kole Reece
 Date:
-This stylesheet provides somebasic styles 
+This stylesheet provides some basic styles 
 
 ---------------------------------*/
-html,body,h1,h2,h3,h4{
+html,body,h1,h2,h3,h4,h5{
 margin: 0px;
 padding: 0px;
 font-size: 16px;
 }
 
+/*-------------------------
+Add Support for a fixed with layout
+*/
 #main-container{
 max-width: 960px;
-padding-top: 30px;
+padding: 30px;
 margin: 0 auto;
 }
 
+/*--------------------
+body
+*/
+ 
 header{
-padding: 20px 20px;
+padding: 10px 10px;
 }
+
 p{
  color: #DDD;
  font: 1.5em "Times New Roman";
  line-height: 1.5em;
 }
 
-.center{
-text-align: center;
-}
-
-
 /*Navigaton*/
-nav,footer{
+nav,footer,section{
 display: block;
 }
 
-footer{
-height: 350px;
-background: #FFFFFF;
-}
 
-
+/*** headings */
 h1{
 font-size: 3.0em;
-color: #FFF;
-
+color: #000;
 }
 
 h2{
 font-size: 2.5em;
-color: #FFF;
+color: #000;
 }
 
 h3{
 font-size: 1.5em;
-color: #FFF;
+color: #000;
 
 }
 
-h2{
+h4{
 font-size: 1.0em;
-color: #FFF;
+color: #000;
+}
+
+h5{
+font-size: 0.75em;
+color: #000;
 }
 
 /*textures*/
 body.default{
-background: #000;
 }
 
 ul li {
 list-style-type: none;
 }
 
-input[type="text"],
-input[type="button"],
-.button
-{
- background: #4061C4;
- padding: 10px 10px;
- margin: 10px 10px;
- display: inline-block;
- text-decoration: none;
- height: 40px;
- width: 200px;
- outline: none;
- border: none;
- font-weight:bold;
- font: 1.5em Arial sans-serif;
- text-align:center;
-}
 
-a:link{
-color:#FFF;
-}
 
 footer a{
 text-decoration:none;
