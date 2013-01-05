@@ -7,5 +7,6 @@
 <li>A small valid html5 template to start to develop your web projects</li>
 <li>Leaves the choice of Javascript Libraries up to the user to reduce file size</li>
 <li>HTML & CSS Degrade Gracefully in Older Browsers</li>
+</ul>
 <h1>Contribute</h1>
 <p>Open a pull request or make  Feature request</p>
