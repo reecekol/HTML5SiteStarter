@@ -4,10 +4,14 @@ Date:2012 Dec 01
 This stylesheet provides some basic styles 
 =================================*/
 
+@basefontsize: 16px;
+@containerwidth: 960px;
+
+
 html,body,h1,h2,h3,h4,h5{
   margin: 0px;
   padding: 0px;
-  font-size: 16px;
+  font-size: @basefontsize;
 }
 
 /**
@@ -16,7 +20,7 @@ html,body,h1,h2,h3,h4,h5{
 */
 
 #main-container{
-  max-width: 960px;
+  max-width:@containerwidth;
   padding: 30px;
   margin: 0 auto;
 }
