@@ -5,3 +5,6 @@
 <p>Adding Alternative version with javascript library support<p>
 <p>Adding .ignore</p>
 <p>Including a port of some parts Nicholas Gallaghers <a href="https://github.com/necolas/normalize.css/">normalize.css</a><p>
+<p>Adding Jquery<p>
+<p>Media Queries<p>
+<p>Helpful Comments</p>
