@@ -1,12 +1,10 @@
 <h1>HTML5SiteStarter</h1>
-<br/>
 <p>HTML5SiteStarter is a lightweight template for developing web applications. It was heavily influenced by <a href="https://github.com/twitter/bootstrap">BootStrap</s> 
 ,<br/><a href="http://necolas.github.com/normalize.css/">Normalize.css</a> , <a href="https://github.com/h5bp/html5-boilerplate">HTML5BoilerPlate</a> and many many more.
  </p>
 <p>Author: <a href="http://reecekol.com/">Kole Reece</a> kreece@reecekol.com</p>
 <p>Twitter @reecekol</p>
 <p>html5sitestarter.com Coming Soon!</p>
-<br/>
 <h1>Versioning</h1>
 marjor.minor
 <p>Major Releases</p>
