@@ -7,6 +7,12 @@
 <p>Twitter @reecekol</p>
 <p>html5sitestarter.com Coming Soon!</p>
 <br/>
+<h1>Versioning</h1>
+<major><minor>
+<br/>
+<p>Major Releases</p>
+<p>Minor Releases</p>
+<br/>
 <h1>Quick Start</h1>
 <br/>
 Clone the repo: git clone https://github.com/reecekol/HTML5SiteStarter.git
