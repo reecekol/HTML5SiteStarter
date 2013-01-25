@@ -1,0 +1,87 @@
+/*================================
+Author: Kole Reece
+Date:2012 Dec 01
+This stylesheet provides some basic styles 
+=================================*/
+
+@basefontsize: 16px;
+@containerwidth: 960px;
+
+
+html,body,h1,h2,h3,h4,h5{
+  margin: 0px;
+  padding: 0px;
+  font-size: @basefontsize;
+}
+
+/**
+*
+*Add Support for a fixed with layout
+*/
+
+#main-container{
+  max-width:@containerwidth;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+/**
+*
+*Styles should be adjusted for customization.
+*/
+
+header{
+  padding: 10px 10px;
+}
+
+p{
+  color: #DDD;
+  font: 1.5em "Times New Roman";
+  line-height: 1.5em;
+}
+
+/*Navigaton*/
+
+nav,footer,section{
+  display: block;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+/*Headings */
+h1{
+  font-size: 3.0em;
+  color: #000;
+}
+
+h2{
+  font-size: 2.5em;
+  color: #000;
+}
+
+h3{
+  font-size: 1.5em;
+  color: #000;
+}
+
+h4{
+  font-size: 1.0em;
+  color: #000;
+}
+
+h5{
+  font-size: 0.75em;
+  color: #000;
+}
+
+/*Footer */
+footer a{
+  text-decoration:none;
+}
+
+footer p{
+  color:#000;
+  font-size:1em;
+}
