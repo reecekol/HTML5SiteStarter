@@ -10,8 +10,8 @@
 <h1>Quick Start</h1>
 <br/>
 Clone the repo: git clone https://github.com/reecekol/HTML5SiteStarter.git
-<ul>
 <h1>Features</h1>
+<ul>
 <li>A small valid html5 template to start to develop your web projects</li>
 <li>Includes less.js to add support for flexible stylesheets</li>
 <li>HTML & CSS Degrade Gracefully in Older Browsers</li>
