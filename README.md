@@ -1,8 +1,15 @@
 <h1>HTML5SiteStarter</h1>
-<p>Author: Kole Reece reecekol@gmail.com</p>
+<br/>
+<p>HTML5SiteStarter is a lightweight template for developing web applications. It was heavily influenced by <a href="https://github.com/twitter/bootstrap">BootStrap</s> 
+,<a href="http://necolas.github.com/normalize.css/">Normalize.css</a> , HTML5BoilerPlate and many many more.
+ </p>
+<p>Author: <a href="http://reecekol.com/">Kole Reece</a> reecekol@gmail.com</p>
 <p>Twitter @reecekol</p>
 <p>html5sitestarter.com Coming Soon!</p>
-
+<br/>
+<h1>Quick Start</h1>
+<br/>
+Clone the repo: git clone git://github.com/twitter/bootstrap.git.
 <ul>
 <li>A small valid html5 template to start to develop your web projects</li>
 <li>Includes less.js to add support for flexible stylesheets</li>
@@ -12,10 +19,3 @@
 <h1>Contribute</h1>
 <p>Open a pull request or make feature request</p>
 
-<h1>T0 DO- This is a list of things I would like help with if anyone is intersted in helping out.</h1>
-<ul>
- <li>Work on the Site Starter Website</li>
- <li>Suggestions on Adding Jquery or another Javascript Library</li>
- <li>Feedback Suggestions for improvments</li>
- <li>Help with Documentation and Examples</li>
-</ul>
