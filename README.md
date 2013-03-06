@@ -4,7 +4,7 @@
 </p>
 <p>Author: <a href="http://reecekol.com/">Kole Reece</a> kreece@reecekol.com</p>
 <p>Twitter @reecekol</p>
-<p>html5sitestarter.com Coming Soon!</p>
+<p>http://www.reecekol.com/html5sitestarter.html</p>
 <h1>Quick Start</h1>
 <br/>
 Clone the repo: git clone https://github.com/reecekol/HTML5SiteStarter.git
@@ -13,6 +13,5 @@ Clone the repo: git clone https://github.com/reecekol/HTML5SiteStarter.git
 <li>A small valid html5 template to start to develop your web projects</li>
 <li>Includes less.js to add support for flexible stylesheets</li>
 <li>Inlcudes JQuery</li>
-<li>Inlcudes <a href="https://github.com/necolas/normalize.css/">Normalize.css</a></li>
 <li>Bender Favicon...just because</li>
 </ul>
